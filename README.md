@@ -6,7 +6,7 @@ CyberPitch2は[RoboCup Soccer Simulation 2D](https://ssim.robocup.org/)におけ
 
 CyberPitch2 is a visualization tool for competition spectators in [RoboCup Soccer Simulation 2D](https://ssim.robocup.org/).
 
-![Image](https://github.com/user-attachments/assets/626e9ba8-e30c-47ec-af3d-3e32afeb1e84)
+![Image](images/main.png)
 
 ## 機能 - Functions
 -   起動時に右クリックをすると出てくるウィンドウ
